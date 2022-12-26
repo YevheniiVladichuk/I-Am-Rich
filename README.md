@@ -6,4 +6,4 @@ The task of module was repeat this app with storyboard, I did it throught code.
 
 ## Screenshots
 
-<img src="https://github.com/YevheniiVladichuk/I-Am-Rich/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-26%20at%2023.35.17.png?raw=true.type" width="390" height="844">  <img src="https://github.com/YevheniiVladichuk/I-Am-Rich/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-26%20at%2023.35.11.png?raw=true.type" width="390" height="844">
+<img src="https://github.com/YevheniiVladichuk/I-Am-Rich/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-26%20at%2023.35.17.png?raw=true.type" width="390" height="844">                  <img src="https://github.com/YevheniiVladichuk/I-Am-Rich/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-26%20at%2023.35.11.png?raw=true.type" width="390" height="844">
