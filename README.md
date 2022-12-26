@@ -5,4 +5,4 @@ I've started new ios development study course by Udemy today. So as repeat is th
 
 The task of module was repeat this app with storyboard, I did it throught code.
 
-<img src -"Simulator Screen Shot - iPhone 14 Pro - 2022-12-26 at 23.35.11.png">
+<img src-"Simulator Screen Shot - iPhone 14 Pro - 2022-12-26 at 23.35.11.png">
